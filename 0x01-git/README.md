@@ -1,2 +1,1 @@
-task0
-My second README updated
+How to be up to date in git.
